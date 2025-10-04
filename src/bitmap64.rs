@@ -26,7 +26,7 @@ pub struct BitMap64<K, V> {
 }
 
 impl<K: Hash + Eq, V> BitMap64<K, V> {
-    // Create new map with default capacity (8 slots)
+    // Create new map with default capacity (64 slots)
     pub fn new() -> Self {
         Self::with_capacity(64)
     }
