@@ -13,6 +13,6 @@ a basic explanation of a cache is, a cache is made out of cache blocks, that hol
 
 Update: I am so wrong, the opposite of what I was expecting happened. While my goal was to improve cache performance, I instead improved run time????? 
 
-# the current progress
-There are two implementations, u8 and u64 bytes. 
+# todo
+i gotta upload the performance comparisons yea but it's late
 
