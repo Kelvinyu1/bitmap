@@ -1,5 +1,7 @@
 # bitmap
 <img width="536" height="238" alt="bitmap logo" src="https://github.com/user-attachments/assets/357162d5-5d10-490d-bb42-2ace3c291e4f" />
+
+
 Hashmap implementation utilizing a bitmap array, attempting to improve cache performance
 
 # the idea 
